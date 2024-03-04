@@ -3,4 +3,5 @@
     "silent": true,
     "autoJobCancelation": true
   }
+  "framework": "nextjs"
 }
